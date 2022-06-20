@@ -1,6 +1,18 @@
 
 
+h2{
+
+    padding: 20px;
+    text-align: center;
+}
 h1{
     background-color: black;
-    color:aquamarine;
+    color: beige;
+    padding: 20px;
+    text-align: center;
+}
+h3 {
+    background-color: blueviolet;
+    color:azure;
+    text-align:end
 }
